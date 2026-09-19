@@ -58,15 +58,17 @@ Plot the message signal, carrier signal, DSBSC modulated signal, and the recover
 ---
 
 ## TABULATION
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/ffaa354d-bed2-4194-982d-41002c6d44e5" />
 
-<img width="474" height="1280" alt="WhatsApp Image 2026-09-18 at 11 30 58 PM" src="https://github.com/user-attachments/assets/a1732805-ac51-4ad8-8ba9-c439385ddf9e" />
+
+
 
 
 ## MODEL GRAPH
 <img width="1010" height="973" alt="WhatsApp Image 2026-09-18 at 21 12 09" src="https://github.com/user-attachments/assets/e4d0362d-0be2-4c9f-9a29-269d23f2b8ba" />
 
 ## Output
-<img width="1912" height="1020" alt="Screenshot 2026-09-18 233224" src="https://github.com/user-attachments/assets/89c339e0-5831-425d-89c1-5b3a40990a09" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/2e088002-7134-4f5c-9c7c-81930ecca109" />
 
 ## Result
 Successfully performed DSBSC modulation and demodulation using SCI LAB .

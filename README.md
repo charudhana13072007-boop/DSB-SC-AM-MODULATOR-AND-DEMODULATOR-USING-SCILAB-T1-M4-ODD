@@ -69,8 +69,12 @@ Plot the message signal, carrier signal, DSBSC modulated signal, and the recover
 
 ## Output
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/2e088002-7134-4f5c-9c7c-81930ecca109" />
+## marks splitup
+<img width="1600" height="752" alt="image" src="https://github.com/user-attachments/assets/1c9b4086-d4b3-412c-b93c-541cd084ad7c" />
+
 
 ## Result
-Successfully performed DSBSC modulation and demodulation using SCI LAB .
+<img width="1600" height="752" alt="image" src="https://github.com/user-attachments/assets/50ad21e8-07f1-4b4b-8c59-aaa35f896a72" />
+
 
 
